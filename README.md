@@ -3,7 +3,7 @@
 
 ## 💻 Skills:
 
-
+### Programming Languages:
 ![image](https://user-images.githubusercontent.com/93142399/229358287-a20fc5f4-398e-4ca3-a1da-8b3f7e87f524.png)
 ![image](https://user-images.githubusercontent.com/93142399/229358367-5f510af9-beae-49a2-85cb-96b31c2e3968.png)
 ![image](https://user-images.githubusercontent.com/93142399/229358313-0aac36a9-aadd-490e-9f20-75a80400099c.png)
