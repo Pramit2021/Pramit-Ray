@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Pramit Ray</h1>
 💻 Skills:
 
 
