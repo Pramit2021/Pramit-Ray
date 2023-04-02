@@ -23,6 +23,7 @@
 - Machine Learning
 
 ## Tools and Languages:
+![image](https://user-images.githubusercontent.com/93142399/229360768-975d5e26-095a-45f0-88af-25dec469d5ad.png)
 ![image](https://user-images.githubusercontent.com/93142399/229360631-94e014b1-b403-4aff-9289-d610bd5cac7f.png)
 ![image](https://user-images.githubusercontent.com/93142399/229360673-1bdcad17-b3c7-4269-80a9-1e85e06169a4.png)
 
