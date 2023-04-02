@@ -20,3 +20,4 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/pramit-ray-a42874215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002bishwajeet" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itz_pramitray_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswa_20p" height="30" width="40" /></a>
