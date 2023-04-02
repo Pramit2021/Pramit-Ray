@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit Ray</h1>
+<h3 align="center">A Data Science Enthusiast</h3>
 
 
 ## 💻 Skills:
