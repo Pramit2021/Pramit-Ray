@@ -23,11 +23,12 @@
 - Machine Learning
 
 ## Tools and Languages:
-![image](https://user-images.githubusercontent.com/93142399/229361442-a9428eb6-d674-4d12-a795-1c6fa3fd3610.png)
-![image](https://user-images.githubusercontent.com/93142399/229361489-25b0c790-6d0e-4840-bfb9-14a4a27ebbd4.png)
-![image](https://user-images.githubusercontent.com/93142399/229360673-1bdcad17-b3c7-4269-80a9-1e85e06169a4.png)
-![image](https://user-images.githubusercontent.com/93142399/229361669-1ae78ddc-74d3-492c-83a1-b3ee21aaee11.png)
-![image](https://user-images.githubusercontent.com/93142399/229361821-6827a63b-c7a4-4932-9e30-17df3670c724.png)
+![image](https://user-images.githubusercontent.com/93142399/229361934-2b1b3b5f-3d64-4f7e-a6ff-ee0cf3e41da6.png)
+![image](https://user-images.githubusercontent.com/93142399/229361951-08ef78cc-1a12-4838-8307-39fb0d1ca05b.png)
+![image](https://user-images.githubusercontent.com/93142399/229361979-18dbaf94-ea77-4001-9a79-ff0ea19817b2.png)
+![image](https://user-images.githubusercontent.com/93142399/229362012-bfdf2dab-23b0-498c-b08b-85d7f0c36584.png)
+![image](https://user-images.githubusercontent.com/93142399/229362032-a7041dae-c807-4955-8138-79727eff1d57.png)
+
 
 
 ## Connect with me:
