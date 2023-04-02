@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit Ray</h1>
-💻 Skills:
+## 💻 Skills:
 
 
 ![image](https://user-images.githubusercontent.com/93142399/229358287-a20fc5f4-398e-4ca3-a1da-8b3f7e87f524.png)
