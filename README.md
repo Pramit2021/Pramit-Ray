@@ -17,3 +17,6 @@
 ### Tools/Technologies
 ![image](https://user-images.githubusercontent.com/93142399/229358353-dbec4caf-7576-432c-9dc0-4e5f670e1fe9.png)
 ![image](https://user-images.githubusercontent.com/93142399/229358313-0aac36a9-aadd-490e-9f20-75a80400099c.png)
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/pramit-ray-a42874215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002bishwajeet" height="30" width="40" /></a>
